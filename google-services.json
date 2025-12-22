@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "196554728462",
+    "project_id": "doogoo-6f0c8",
+    "storage_bucket": "doogoo-6f0c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196554728462:android:261c743723a3f98135485f",
+        "android_client_info": {
+          "package_name": "com.andrewdalyhabittracking.doogoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196554728462-0li4ih0lrin7k8r7o9t9p6034lj42aos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andrewdalyhabittracking.doogoo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "196554728462-4uvv2ah0q4gv73j3e79ob72c5sm90ulm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ4A2FoEBilL5rSyXz37SrRtIgY12CwWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196554728462-4uvv2ah0q4gv73j3e79ob72c5sm90ulm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
