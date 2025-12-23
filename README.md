@@ -2,6 +2,15 @@
 
 A comprehensive habit tracking mobile application built with React Native and Expo that helps users build better habits, participate in challenges, earn rewards, and connect with friends on their personal development journey.
 
+## App Screenshots
+<img width="188" height="390" alt="Screenshot 2025-12-23 at 9 34 45 PM" src="https://github.com/user-attachments/assets/fa3aba1f-aa11-4ea5-819f-176c843f376e" />
+
+<img width="193" height="441" alt="Screenshot 2025-12-23 at 9 35 19 PM" src="https://github.com/user-attachments/assets/fec53453-e6f6-4712-ab1f-9ec60415509e" />
+
+<img width="189" height="390" alt="Screenshot 2025-12-23 at 9 35 37 PM" src="https://github.com/user-attachments/assets/754448d3-30a7-4762-ac0e-628ffb47dae2" />
+
+<img width="189" height="389" alt="Screenshot 2025-12-23 at 9 35 55 PM" src="https://github.com/user-attachments/assets/9ae9a011-7971-4d3a-9eef-aef7b9c4b5e2" />
+
 ## 🚀 Features
 
 ### Core Functionality
