@@ -3,15 +3,19 @@
 A comprehensive habit tracking mobile application built with React Native and Expo that helps users build better habits, participate in challenges, earn rewards, and connect with friends on their personal development journey.
 
 ## App Screenshots
-<img width="188" height="390" alt="Screenshot 2025-12-23 at 9 34 45 PM" src="https://github.com/user-attachments/assets/fa3aba1f-aa11-4ea5-819f-176c843f376e" />
+<img width="162" height="411" alt="Screenshot 2025-12-23 at 9 42 57 PM" src="https://github.com/user-attachments/assets/d1e7c452-beea-4f59-a757-6164a951b25e" />
 
-<img width="193" height="441" alt="Screenshot 2025-12-23 at 9 35 19 PM" src="https://github.com/user-attachments/assets/fec53453-e6f6-4712-ab1f-9ec60415509e" />
+<img width="162" height="335" alt="Screenshot 2025-12-23 at 9 43 30 PM" src="https://github.com/user-attachments/assets/4cf36941-4c8f-4709-913e-a93ec10b9a81" />
+<img width="223" height="452" alt="Screenshot 2025-12-23 at 9 43 47 PM" src="https://github.com/user-attachments/assets/02ad1da1-0c4c-4838-b5bc-8d828a5c3de0" />
+<img width="221" height="506" alt="Screenshot 2025-12-23 at 9 44 17 PM" src="https://github.com/user-attachments/assets/718715d4-1f73-4404-bbee-8687f9e2a2bd" />
 
-<img width="189" height="390" alt="Screenshot 2025-12-23 at 9 35 37 PM" src="https://github.com/user-attachments/assets/754448d3-30a7-4762-ac0e-628ffb47dae2" />
+<img width="224" height="451" alt="Screenshot 2025-12-23 at 9 44 27 PM" src="https://github.com/user-attachments/assets/51c1d325-d52b-4ddd-9717-cb87c9b08ef3" />
+<img width="220" height="452" alt="Screenshot 2025-12-23 at 9 44 40 PM" src="https://github.com/user-attachments/assets/197d080d-6001-4a15-a37a-140faf19fca7" />
 
-<img width="189" height="389" alt="Screenshot 2025-12-23 at 9 35 55 PM" src="https://github.com/user-attachments/assets/9ae9a011-7971-4d3a-9eef-aef7b9c4b5e2" />
 
-## 🚀 Features
+
+## 🚀 Features![Uploading Screenshot 2025-12-23 at 9.44.17 PM.png…]()
+
 
 ### Core Functionality
 - **Habit Tracking**: Create, manage, and track daily habits with calendar visualization
