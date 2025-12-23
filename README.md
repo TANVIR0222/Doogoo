@@ -4,13 +4,15 @@ A comprehensive habit tracking mobile application built with React Native and Ex
 
 ## App Screenshots
 
-<img width="221" height="506" alt="Screenshot 2025-12-23 at 9 44 17 PM" src="https://github.com/user-attachments/assets/718715d4-1f73-4404-bbee-8687f9e2a2bd" />
-<img width="221" height="506" alt="Screenshot 2025-12-23 at 9 44 27 PM" src="https://github.com/user-attachments/assets/51c1d325-d52b-4ddd-9717-cb87c9b08ef3" />
-<img width="221" height="506" alt="Screenshot 2025-12-23 at 9 44 40 PM" src="https://github.com/user-attachments/assets/197d080d-6001-4a15-a37a-140faf19fca7" />
-<img width="221" height="506" alt="Screenshot 2025-12-23 at 9 42 57 PM" src="https://github.com/user-attachments/assets/d1e7c452-beea-4f59-a757-6164a951b25e" />
+<img width="320" height="570" alt="Splash Screen 1 (1)" src="https://github.com/user-attachments/assets/ef0faef9-44bc-4f37-9502-e43043ae010e" />
+<img width="320" height="570" alt="Splash Screen 2 (1)" src="https://github.com/user-attachments/assets/33eb062b-5eba-42ce-b52a-9d8c66f0ace2" />
+<img width="320" height="570" alt="Group Challenges (1)" src="https://github.com/user-attachments/assets/56531949-045f-404d-8551-61d94f669400" />
+<img width="320" height="570" alt="View Details" src="https://github.com/user-attachments/assets/fbbeb04d-d516-4627-a889-5026a905cead" />
+<img width="320" height="570" alt="Group Challenges (2)" src="https://github.com/user-attachments/assets/6571d75a-cbab-41b8-80c0-aaf31d2755f0" />
+<img width="320" height="570" alt="Rewards" src="https://github.com/user-attachments/assets/f20db4cf-5767-48f9-a1c2-bca1e547f98a" />
 
-<img width="221" height="506" alt="Screenshot 2025-12-23 at 9 43 30 PM" src="https://github.com/user-attachments/assets/4cf36941-4c8f-4709-913e-a93ec10b9a81" />
-<img width="221" height="506" alt="Screenshot 2025-12-23 at 9 43 47 PM" src="https://github.com/user-attachments/assets/02ad1da1-0c4c-4838-b5bc-8d828a5c3de0" />
+
+
 
 
 ## 🚀 Features
